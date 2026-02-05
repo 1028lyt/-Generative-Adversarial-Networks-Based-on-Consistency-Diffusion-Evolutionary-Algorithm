@@ -1,2 +1,2 @@
-# -Generative-Adversarial-Networks-Based-on-Consistency-Diffusion-Evolutionary-Algorithm
-Our approach (a Consistency Diffusion Evolution algorithm tailored for GAN architecture search (CDE-GAN)) leverages probability flow matching theory to compress multi-step evolutionary sampling into a single step, drastically reducing search overhead while preserving solution diversity—a critical factor for discovering robust architectures. 
+# EWSGAN
+# We will continue to update.
